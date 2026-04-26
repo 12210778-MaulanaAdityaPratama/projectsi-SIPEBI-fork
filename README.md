@@ -22,7 +22,7 @@ SIPEBI adalah sebuah sistem informasi berbasis web yang dikembangkan untuk **Des
 
 ![Beranda SIPEBI](https://raw.githubusercontent.com/12210778-MaulanaAdityaPratama/projectsi-SIPEBI-fork/blob/readme/public/storage/screenshoot/homepage.png)
 
-![Beranda SIPEBI](public/screenshot/homepage2.png)
+![Beranda SIPEBI](public/screenshoot/homepage2.png)
 
 ![Beranda SIPEBI](public/screenshot/homepage3.png)
 
