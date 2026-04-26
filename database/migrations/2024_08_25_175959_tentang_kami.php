@@ -14,7 +14,6 @@ return new class extends Migration
         Schema::create('tentang_kami', function (Blueprint $table) {
             $table->id();
             $table->string('deskripsi');
-            $table->string('foto');
             $table->timestamps();
         });
     }
