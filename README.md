@@ -20,9 +20,9 @@ SIPEBI adalah sebuah sistem informasi berbasis web yang dikembangkan untuk **Des
 
 ### 🏠 Halaman Beranda (Home)
 
-![Beranda SIPEBI](assets/screenshot/homepage.png)
+![Beranda SIPEBI](assets/screenshoot/homepage.png)
 
-![Beranda SIPEBI](assets/screenshot/homepage2.png)
+![Beranda SIPEBI](assets/screenshoot/homepage2.png)
 
 ![Beranda SIPEBI](assets/screenshoot/homepage3.png)
 
