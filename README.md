@@ -20,9 +20,9 @@ SIPEBI adalah sebuah sistem informasi berbasis web yang dikembangkan untuk **Des
 
 ### 🏠 Halaman Beranda (Home)
 
-![Beranda SIPEBI](public/screenshot/homepage.png)
+![Beranda SIPEBI](assets/screenshot/homepage.png)
 
-![Beranda SIPEBI](public/screenshot/homepage2.png)
+![Beranda SIPEBI](assets/screenshot/homepage2.png)
 
 ![Beranda SIPEBI](assets/screenshoot/homepage3.png)
 
@@ -32,7 +32,7 @@ SIPEBI adalah sebuah sistem informasi berbasis web yang dikembangkan untuk **Des
 
 ### 💻 Halaman Dasbor (Dashboard)
 
-![Dashboard SIPEBI](assets/screenshoot/dashboardamin.png)
+![Dashboard SIPEBI](assets/screenshoot/dashboardadmin.png)
 
 ### Login
 
