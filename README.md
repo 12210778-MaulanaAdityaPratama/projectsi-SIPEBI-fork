@@ -20,27 +20,27 @@ SIPEBI adalah sebuah sistem informasi berbasis web yang dikembangkan untuk **Des
 
 ### 🏠 Halaman Beranda (Home)
 
-![Beranda SIPEBI](https://raw.githubusercontent.com/12210778-MaulanaAdityaPratama/projectsi-SIPEBI-fork/blob/readme/public/storage/screenshoot/homepage.png)
+![Beranda SIPEBI](public/screenshot/homepage.png)
 
-![Beranda SIPEBI](public/screenshoot/homepage2.png)
+![Beranda SIPEBI](public/screenshot/homepage2.png)
 
-![Beranda SIPEBI](public/screenshot/homepage3.png)
+![Beranda SIPEBI](assets/screenshoot/homepage3.png)
 
-![Beranda SIPEBI](public/screenshot/homepage4.png)
+![Beranda SIPEBI](assets/screenshoot/homepage4.png)
 
-![Beranda SIPEBI](public/screenshot/homepage5.png)
+![Beranda SIPEBI](assets/screenshoot/homepage5.png)
 
 ### 💻 Halaman Dasbor (Dashboard)
 
-![Dashboard SIPEBI](public/screenshot/dashboardamin.png)
+![Dashboard SIPEBI](assets/screenshoot/dashboardamin.png)
 
 ### Login
 
-![Login SIPEBI](public/screenshot/login.png)
+![Login SIPEBI](assets/screenshoot/login.png)
 
 ### Register
 
-![Register SIPEBI](public/screenshot/register.png)
+![Register SIPEBI](assets/screenshoot/register.png)
 
 ---
 
